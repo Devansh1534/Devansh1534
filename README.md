@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer and Machine Learning Enthusiast from India</h3>
 <img align alt = "Coding" width = "450" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh1534&label=Profile%20views&color=0e75b6&style=flat" alt="devansh1534" /> </p>
