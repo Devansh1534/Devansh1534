@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Devansh1534&theme=onedark)](https://github.com/Devansh1534/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh1534" alt="devansh1534" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/devansh1534" target="blank"><img src="https://img.shields.io/twitter/follow/devansh1534?logo=twitter&style=for-the-badge" alt="devansh1534" /></a> </p>
 
