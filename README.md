@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [BUZZ AI](https://buzz-ai.vercel.app/)
 
-- 💬 Ask me about **React, Python, C++, Javascript**
+- 💬 Ask me about **React, Python, C++, Javascript, Next, CSS, HTML, SQL, PostgreSQL, Apex**
 
 - 📫 How to reach me **devanshtiwari1534@gmail.com**
 
