@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/devansh1534" target="blank"><img src="https://img.shields.io/twitter/follow/devansh1534?logo=twitter&style=for-the-badge" alt="devansh1534" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/devansh-tiwari-a06363228/" target="blank"><img src="https://img.shields.io/Linkedin/follow/devanshtiwari?logo=linkedin&style=for-the-badge" alt="devansh1534" /></a> </p>
+
 - 🔭 I’m currently working on [BUZZ AI](https://buzz-ai.vercel.app/)
 
 - 🌱 I’m currently learning **Express.js, Next.js, Keras**
