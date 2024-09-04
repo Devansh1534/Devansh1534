@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Express.js, Next.js, Keras**
 
-- 🤝 I’m looking for help with [BUZZ AI](https://buzz-ai.vercel.app/)
+- 🤝 I’m looking for help with [FREE SCRIBE](https://free-scribe-orcin.vercel.app/))
 
 - 💬 Ask me about **React, Python, C++, Javascript, Next, CSS, HTML, SQL, PostgreSQL, Apex**
 
