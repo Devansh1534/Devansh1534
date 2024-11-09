@@ -38,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh1534&show_icons=true&locale=en&layout=compact" alt="devansh1534" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh1534&show_icons=true&locale=en" alt="devansh1534" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh1534&" alt="devansh1534" /></p>
